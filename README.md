@@ -1,3 +1,6 @@
+Note: Extension 1 and 2 will be implemented for this task.
+
+
 # Programming Paradigms
 
 Electric Vehicles have BMS - Battery Management Systems
